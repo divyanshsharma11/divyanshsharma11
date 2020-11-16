@@ -1,4 +1,6 @@
-### Hi there 👋
+# Divyansh Sharma
+
+### Hello There 👋
 *I am Divyansh Sharma. My main interest lies in Data Science and Machine Learning. I also have basic knowledge of HTML,CSS,SQL and C.I am a quick learner and always curious    to learn something new.*
 *  🔭 I’m currently pursuing B.tech from Presidency University,Bangalore and right now I am in 3rd Year(5th Semester).
 * 🌱 I’m currently learning Machine Learning.
