@@ -1,6 +1,9 @@
 ### Hi there 👋
-* I am Divyansh Sharma. My main interest lies in Data Science and Machine Learning. I also have basic knowledge of HTML,CSS,SQL and C.I am a quick learner and always curious *   * to learn something new. *
-
+*I am Divyansh Sharma. My main interest lies in Data Science and Machine Learning. I also have basic knowledge of HTML,CSS,SQL and C.I am a quick learner and always curious    to learn something new.*
+*  🔭 I’m currently pursuing B.tech from Presidency University,Bangalore and i am in 3rd Year.
+* 🌱 I’m currently learning Machine Learning.
+* 📫 How to reach me: You can contact me through my [LinkedIn Profile](https://www.linkedin.com/in/divyansh-sharma-bb53771a4/) 
+*  ⚡ Fun fact: I love listening to music while working.
 <!--
 **divyanshsharma11/divyanshsharma11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
