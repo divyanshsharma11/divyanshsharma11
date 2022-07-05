@@ -7,6 +7,11 @@
 * 📫 How to reach me: You can contact me through my [LinkedIn Profile](https://www.linkedin.com/in/divyansh-sharma-bb53771a4/) 
 *  📫 How to reach me: You can contact me through my  [website](https://flowcv.me/divyansh-sharma1)
 *  ⚡ Fun fact: I love listening to music while working.
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=divyanshsharma11&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsharma11&langs_count=5&theme=tokyonight)]()
+
 <!--
 **divyanshsharma11/divyanshsharma11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
