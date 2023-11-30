@@ -1,7 +1,7 @@
 # Divyansh Sharma
 
 ### Hello There 👋
-*I am Divyansh Sharma. My main interest lies in Data Science and Machine Learning. I also have knowledge of Angular and Java.I am a quick learner and always curious    to learn something new.*
+*I am Divyansh Sharma. My main interest lies in Data Science and Machine Learning. I also have knowledge of Nodejs and Java.I am a quick learner and always curious    to learn something new.*
 *  🔭 I pursued B.tech from Presidency University,Bangalore.
 * 🌱 I’m currently learning Full Stack development using Spring-Boot(Java) and Angular.
 * 📫 How to reach me: You can contact me through my [LinkedIn Profile](https://www.linkedin.com/in/divyansh-sharma-bb53771a4/) 
