@@ -5,7 +5,7 @@
 *  🔭 I pursued B.tech from Presidency University,Bangalore.
 * 🌱 I’m currently a Backend developer, using Java, Nodejs and SQL.
 * 📫 How to reach me: You can contact me through my [LinkedIn Profile](https://www.linkedin.com/in/divyansh-sharma1121/) 
-*  📫 How to reach me: You can contact me through my  [website](https://flowcv.me/divyansh-sharma1)
+*  <!-- 📫 How to reach me: You can contact me through my  [website](https://flowcv.me/divyansh-sharma1) -->
 *  ⚡ Fun fact: I love listening to music while working.
 
 
