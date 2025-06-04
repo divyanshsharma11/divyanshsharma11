@@ -1,27 +1,37 @@
-# Divyansh Sharma
+# 👋 Hi, I'm Divyansh Sharma  
 
-### Hello There 👋
-*I am Divyansh Sharma.I am a Certified Google Cloud Digital Leader. My main interest lies in Data Science and Machine Learning. I also have knowledge of Nodejs and Java.I am a quick learner and always curious    to learn something new.*
-*  🔭 I pursued B.tech from Presidency University,Bangalore.
-* 🌱 I’m currently a Backend developer, using Java, Nodejs and SQL.
-* 📫 How to reach me: You can contact me through my [LinkedIn Profile](https://www.linkedin.com/in/divyansh-sharma1121/) 
-<!-- *   📫 How to reach me: You can contact me through my  [website](https://flowcv.me/divyansh-sharma1) -->
-*  ⚡ Fun fact: I love listening to music while working.
+🎯 **Software Developer (Backend) | 3+ Years of Experience | GCP Certified | Tech Enthusiast**
 
+---
+
+🚀 *I'm a Software Developer with  nearly 3 years of experience.*  
+I specialize in **Node.js**, **MongoDB**, **SQL**  and also worked with **Java**, **Python**, **Git**, and **Google Cloud Platform**. I'm known as someone who’s always curious to explore new technologies.
+
+---
+
+### 🛠️ Tech Stack  
+- **Languages:** JavaScript (Node.js), Java, Python, SQL  
+- **Databases:** MongoDB, MySQL, Oracle
+- **Cloud & DevOps:** Google Cloud Platform (GCP Certified), Git, GitHub  
+- **Tools & Others:** REST APIs, Express.js, Postman, git
+
+---
+
+### 💼 Professional Highlights  
+- 🎓 Graduated with a B.Tech from *Presidency University, Bangalore*  
+- 💻 Currently working as a **Software Developer**, building and maintaining backend systems using Node.js,MongoDb 
+
+---
+
+### 📬 Let's Connect  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/divyansh-sharma1121/)  
+<!-- - 🌐 [Website](https://flowcv.me/divyansh-sharma1) -->
+
+---
+
+### 🎵 Fun Fact  
+I love listening to music while coding — it keeps the bugs away (most of the time)!
+
+---
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=divyanshsharma11&count_private=true&theme=tokyonight&showicons=true)]()
-
-<!--
-**divyanshsharma11/divyanshsharma11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
