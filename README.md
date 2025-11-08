@@ -12,7 +12,7 @@ I specialize in **Node.js**, **MongoDB**, **SQL**  and also worked with **Java**
 ### 🛠️ Tech Stack  
 - **Languages:** JavaScript (Node.js), Java, Python, SQL  
 - **Databases:** MongoDB, MySQL, Oracle
-- **Cloud & DevOps:** Google Cloud Platform (GCP Certified), Git, GitHub  
+- **Cloud:** Google Cloud Platform (GCP Certified), Git, GitHub  
 - **Tools & Others:** REST APIs, Express.js, Postman, git
 
 ---
