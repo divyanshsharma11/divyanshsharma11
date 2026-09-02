@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Divyansh Sharma  
 
-🎯 **Software Developer (Backend) | 3.5+ Years of Experience | GCP Certified | Tech Enthusiast**
+🎯 **Software Developer (Backend) | 4+ Years of Experience | GCP Certified | Tech Enthusiast**
 
 ---
 
 🚀 *I'm a Software Developer with more than 3 years of experience.*  
-I specialize in **Node.js**, **MongoDB**, **SQL**  and also worked with **Java**, **Python**, **Git**, and **Google Cloud Platform**. I'm known as someone who’s always curious to explore new technologies.
+I specialize in **Node.js**, **MongoDB**, **SQL**  and also worked with **Python**, **Git**, and **Google Cloud Platform**. I'm known as someone who’s always curious to explore new technologies.
 
 ---
 
