@@ -4,7 +4,7 @@ I build the integrations that connect products to the platforms they depend on, 
 **This profile works like an API. Click an endpoint to call it.**
 
 <details>
-<summary><img src="./assets/ep-about.svg" alt="GET /about — who I am" width="94%" /></summary>
+<summary><picture><img src="./assets/ep-about.svg" alt="GET /about — who I am" width="94%" /></picture></summary>
 <br/>
 
 ```json
@@ -22,7 +22,7 @@ I build the integrations that connect products to the platforms they depend on, 
 </details>
 
 <details>
-<summary><img src="./assets/ep-integrations.svg" alt="GET /integrations — 20+ platforms I've shipped" width="94%" /></summary>
+<summary><picture><img src="./assets/ep-integrations.svg" alt="GET /integrations — 20+ platforms I've shipped" width="94%" /></picture></summary>
 <br/>
 
 <img src="./assets/integrations.svg" alt="Integrations by domain. Payments: Stripe Connect. CRM and legal: HubSpot, Clio. Healthcare: Athenahealth, eClinicalWorks, NexHealth. Hospitality: Cloudbeds. Scheduling: Cal.com, Calendly. Email and data: Gmail with Pub/Sub, Google Sheets, BigQuery. Ads: Google Ads, Meta Conversions API. Social: Instagram, Facebook, YouTube. Automation: Make.com connector." width="100%" />
@@ -31,7 +31,7 @@ I build the integrations that connect products to the platforms they depend on, 
 </details>
 
 <details>
-<summary><img src="./assets/ep-architecture.svg" alt="GET /architecture — the pattern behind most of them" width="94%" /></summary>
+<summary><picture><img src="./assets/ep-architecture.svg" alt="GET /architecture — the pattern behind most of them" width="94%" /></picture></summary>
 <br/>
 
 ```mermaid
@@ -45,7 +45,7 @@ flowchart LR
 </details>
 
 <details>
-<summary><img src="./assets/ep-backend.svg" alt="GET /backend — beyond integrations" width="94%" /></summary>
+<summary><picture><img src="./assets/ep-backend.svg" alt="GET /backend — beyond integrations" width="94%" /></picture></summary>
 <br/>
 
 - **Microservices** — led the Node.js upgrade across microservices with minimal downtime, and moved from Moment.js to Day.js to cut bundle size.
@@ -57,7 +57,7 @@ flowchart LR
 </details>
 
 <details>
-<summary><img src="./assets/ep-projects.svg" alt="GET /projects — things I've built in the open" width="94%" /></summary>
+<summary><picture><img src="./assets/ep-projects.svg" alt="GET /projects — things I've built in the open" width="94%" /></picture></summary>
 <br/>
 
 <p>
@@ -72,7 +72,7 @@ flowchart LR
 </details>
 
 <details>
-<summary><img src="./assets/ep-experience.svg" alt="GET /experience — four years, three companies" width="94%" /></summary>
+<summary><picture><img src="./assets/ep-experience.svg" alt="GET /experience — four years, three companies" width="94%" /></picture></summary>
 <br/>
 
 <img src="./assets/timeline.svg" alt="Career timeline: Capgemini Engineering from July 2022, promoted to Associate II in April 2024; Vodex AI from August 2024; M32 AI from December 2025 to August 2026." width="100%" />
@@ -95,7 +95,7 @@ flowchart LR
 </details>
 
 <details>
-<summary><img src="./assets/ep-fun-fact.svg" alt="GET /fun-fact — one thing about me" width="94%" /></summary>
+<summary><picture><img src="./assets/ep-fun-fact.svg" alt="GET /fun-fact — one thing about me" width="94%" /></picture></summary>
 <br/>
 
 ```json
