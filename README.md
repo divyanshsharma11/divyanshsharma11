@@ -39,4 +39,4 @@ B.Tech, *Presidency University, Bangalore*
 ---
 
 ### 🎵 Fun fact
-I love listening to music while coding — it keeps the bugs away (most of the time)!
+I love listening to music while coding, it keeps the bugs away (most of the time)!
