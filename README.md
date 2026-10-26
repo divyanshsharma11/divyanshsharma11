@@ -16,7 +16,8 @@ I build the integrations that connect products to the platforms they depend on, 
   "focus": ["third-party API integrations", "OAuth 2.0", "webhooks", "queues and workers", "backend services"],
   "stack": ["Node.js", "Python", "Express", "MongoDB", "SQL", "Redis", "BullMQ", "Docker", "Google Cloud"],
   "certifications": ["Google Cloud Digital Leader"],
-  "education": "B.Tech, Presidency University, Bangalore"
+  "education": "B.Tech, Presidency University, Bangalore",
+  "portfolio": "https://divyanshsharma11.vercel.app"
 }
 ```
 </details>
@@ -102,5 +103,7 @@ flowchart LR
 { "fact": "I code with music on. It keeps the bugs away, most of the time." }
 ```
 </details>
+
+<a href="https://divyanshsharma11.vercel.app"><img src="./assets/portfolio.svg" alt="My live portfolio at divyanshsharma11.vercel.app: drag-and-drop profile card, Pipeline Lab and a circuit breaker you can break. Click to open." width="100%" /></a>
 
 <a href="https://www.linkedin.com/in/divyansh-sharma1121"><img src="./assets/hire.svg" alt="POST /hire — open to backend and integration roles. Connect on LinkedIn." width="100%" /></a>
