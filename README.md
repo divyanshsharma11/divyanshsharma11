@@ -62,6 +62,7 @@ flowchart LR
 <br/>
 
 <p>
+<a href="https://github.com/divyanshsharma11/launch-rush"><img src="./assets/proj-launch-rush.svg" alt="launch-rush" width="49%" /></a>
 <a href="https://github.com/divyanshsharma11/calendlyIntegration"><img src="./assets/proj-calendlyintegration.svg" alt="calendlyIntegration" width="49%" /></a>
 <a href="https://github.com/divyanshsharma11/hubSpot-Integration"><img src="./assets/proj-hubspot-integration.svg" alt="hubSpot-Integration" width="49%" /></a>
 <a href="https://github.com/divyanshsharma11/luduscore"><img src="./assets/proj-luduscore.svg" alt="luduscore" width="49%" /></a>
